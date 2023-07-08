@@ -9,7 +9,7 @@ public class Main {
       FeaturSun Adanx=new FeaturSun();
       Adanx.name="poya";
       Adanx.size="765544";
-      Adanx.temp=2345667 celesius;
+      Adanx.temp="2345667 celesius";
     }
 
 }
