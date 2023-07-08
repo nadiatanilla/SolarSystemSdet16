@@ -6,6 +6,10 @@ public class Main {
       Omnax.Planet="2";
       Omnax.Star="2";
       Omnax.Sun="2";
+      FeaturSun Adanx=new FeaturSun();
+      Adanx.name="poya";
+      Adanx.size="765544";
+      Adanx.temp=2345667 celesius;
     }
 
 }
