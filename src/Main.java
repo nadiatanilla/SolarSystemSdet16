@@ -10,6 +10,11 @@ public class Main {
       Adanx.name="poya";
       Adanx.size="765544";
       Adanx.temp="2345667 celesius";
+
+      Planet1 xeon=new Planet1();
+      xeon.name="reon";
+      xeon.size="3467899";
+      xeon.tem="5677 c";
     }
 
 }
