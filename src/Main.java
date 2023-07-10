@@ -10,6 +10,11 @@ public class Main {
       Adanx.name="poya";
       Adanx.size="765544";
       Adanx.temp="2345667 celesius";
+
+      planet4 p=new planet4();
+      p.color="white";
+      p.name="abhj";
+      p.size="5666777888";
     }
 
 }
