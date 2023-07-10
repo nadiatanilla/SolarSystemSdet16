@@ -11,10 +11,17 @@ public class Main {
       Adanx.size="765544";
       Adanx.temp="2345667 celesius";
 
+
       planet3 n= new planet3();
       n.name=" abh";
       n.size="56666";
       n.color="black";
+
+      planet4 p=new planet4();
+      p.color="white";
+      p.name="abhj";
+      p.size="5666777888";
+
     }
 
 }
